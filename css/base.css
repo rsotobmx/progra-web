@@ -1,0 +1,55 @@
+.display-great{
+	display: none;
+}
+
+.display-medium{
+	display: none;
+
+}
+.display-mini{
+	display: none;
+
+}
+
+div.img_line img{
+	width:300px;
+	padding: 10px 5px;
+    float: left;
+
+}
+div.clearfix img{
+	width:300px;
+	padding: 10px 5px;
+    float: left;
+
+}
+
+img.reu {
+	width:250px;
+    float: right;
+
+}
+
+p{
+	display: inline;
+	color:midnightblue;
+	float:center;
+	font-size: 1.3em;
+}
+
+footer {
+	float: left;
+}
+
+
+.menu{
+	padding-left: 0;
+}
+.menu {
+	display: inline;
+	list-style-type: none;
+}
+
+header, footer{
+	background-image: url(image_css/p2.jpg);
+}
